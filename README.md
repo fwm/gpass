@@ -3,7 +3,7 @@
 ## Installation
 Installed with `go install github.com/fwm/gpass`
 
-##Usage
+## Usage
 Once invoked as `gpass [flags]` it generates a password and copies it to clipboard
 
 ```
